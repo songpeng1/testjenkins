@@ -1,3 +1,4 @@
 echo 'ok'
 ls
-mv $SOURCE_DIR /root/test
+echo $SOURCE_DIR
+mv $SOURCE_DIR /root/test/
